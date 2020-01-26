@@ -2,6 +2,8 @@
 
 Webapps you can turn into apps which I've modified to look more adapted to macOS. As I don't think I'm legally allowed to redistrubute the software, so here's a guide how you can compile one your self.
 
+https://github.com/jiahaog/nativefier
+
 ## Requirements / Tested on
 - macOS 10.14+
 - node + npm
