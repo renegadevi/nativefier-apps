@@ -7,7 +7,7 @@ https://github.com/jiahaog/nativefier-icons
 
 ## Requirements / Tested on
 - macOS 10.14+
-- node + npm
+- node (v13.7.0) + npm (6.13.6)
 - imagemagick
 - iconutil (comes with Xcode)
 
