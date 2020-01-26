@@ -9,6 +9,7 @@ https://github.com/jiahaog/nativefier-icons
 - macOS 10.14+
 - node + npm
 - imagemagick
+- iconutil (comes with Xcode)
 
 ### Installation of Nativefier
 ```bash
