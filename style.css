@@ -1,0 +1,40 @@
+.layout-size_default .cu2-spaces-bar {
+	width: 79px !important;
+}
+
+.layout-size_default .cu2-spaces-bar__expanding {
+	display: none !important;
+}
+
+.layout-size_default .cu2-spaces-bar__compact {}
+
+.layout-size_default .cu2-spaces-bar__body {
+	padding-top: 40px !important;
+	margin-left: 11px !important;
+}
+
+.layout-size_default .cu2-spaces-bar__row {
+	height: 52px !important;
+}
+
+.layout-size_default .cu2-spaces-bar__compact-btn {
+	width: 42px !important;
+	height: 42px !important;
+	padding: 12px !important;
+}
+
+.cu2-spaces-bar__bottom {
+	margin-left: 10px !important;
+}
+
+.cu2-spaces-bar__profile {
+	margin-left: 10px !important;
+}
+
+.cu2-spaces-bar__logo {
+	display: none !important;
+}
+
+.cu-onboarding__sidebar-logo {
+	top: 50px !important;
+}
